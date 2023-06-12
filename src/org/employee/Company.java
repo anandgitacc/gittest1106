@@ -11,6 +11,10 @@ public class Company {
 		System.out.println("Company id: 1122");
 	}
 	
+	private void comLocation() {
+		System.out.println("Company location: chennai");
+	}
+	
 	
 	
 	
