@@ -10,12 +10,17 @@ public class Company {
 	public void comId() {
 		System.out.println("Company id: 1122");
 	}
-	
+	private void comStatus() {
+		System.out.println("Currently working");
+	}
 	private void comLocation() {
 		System.out.println("Company location: chennai");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 1e2c0643ad1569ec1596ddf9d965d106f14eb08b
 	}
 	
 	
 	
 	
-}
